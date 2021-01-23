@@ -335,9 +335,9 @@ input[type='checkbox'] {
 	display: inline-block;
 	width: 100%;
 	height: 3.125rem;
-	border: 0.125rem solid #14bf98;
+	border: 0.125rem solid rgb(255,127,0);
 	border-radius: 0.25rem;
-	background-color: #14bf98;
+	background-color: rgb(255,127,0);
 	color: #fff;
 	font: 700 0.75rem/1.75rem "Montserrat", sans-serif;
 	cursor: pointer;
@@ -346,7 +346,7 @@ input[type='checkbox'] {
 
 .form-control-submit-button:hover {
 	background-color: transparent;
-	color: #14bf98;
+	color: rgb(255,127,0);
 }
 
 /* Form Success And Error Message Formatting */
@@ -816,13 +816,13 @@ a.back-to-top {
 	width: 2.625rem;
 	height: 2.625rem;
 	border-radius: 1.875rem;
-	background: #14bf98 url("../images/up-arrow.png") no-repeat center 47%;
+	background: rgb(255,127,0) url("../images/up-arrow.png") no-repeat center 47%;
 	background-size: 1.125rem 1.125rem;
 	text-indent: -9999px;
 }
 
 a:hover.back-to-top {
-	background-color: #13aa87; 
+	background-color: #949292; 
 }
 
 
@@ -928,7 +928,7 @@ a:hover.back-to-top {
 	
 	.navbar-custom .nav-item .nav-link:hover,
 	.navbar-custom .nav-item .nav-link.active {
-		color: #14bf98;
+		color: rgb(255,127,0);
 	}
 
 	.navbar-custom.top-nav-collapse {
@@ -947,7 +947,7 @@ a:hover.back-to-top {
 	
 	.navbar-custom.top-nav-collapse .nav-item .nav-link:hover,
 	.navbar-custom.top-nav-collapse .nav-item .nav-link.active {
-		color: #14bf98;
+		color: rgb(255,127,0);
 	}
 
 	.navbar-custom .dropdown-menu {
